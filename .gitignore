@@ -1,0 +1,22 @@
+#Ignore Everything
+*
+
+#Except These Files
+!.gitignore
+!README.md
+!*.ipynb
+!*.py
+
+!100_Days_of_Deep_Learning
+
+#Ignore these Directories
+Data/
+models/
+__pycache__/
+logs/
+.csv
+.tsv
+.json
+.pkl
+.h5
+.tflite
